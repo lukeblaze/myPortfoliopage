@@ -3,11 +3,14 @@
     padding:0;
 }
 body{
-    background-image:url("images/code.jpg");
+    background-image:url("images/bm3.jpg");
     background-repeat:no-repeat;
     background-attachment:fixed;
     background-size:cover;
-    min-height:100vh;
+    min-height:50vh;
+    align-items:center;
+    justify-content: center;
+    display:flex;
 }
 .header img{
     width:130px;
